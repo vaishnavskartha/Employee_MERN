@@ -1,0 +1,10 @@
+.form{
+    float: left;
+    border: 2px solid blue;
+    height: 28em;
+    width: 300px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 150%;
+    margin-top:10%;
+    padding: 20px;
+}
